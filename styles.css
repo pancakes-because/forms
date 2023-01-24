@@ -1,0 +1,17 @@
+form {
+    background-color: blue; 
+    padding: 2rem; 
+}
+
+label {
+    color: white; 
+}
+
+input {
+    padding: .5rem; 
+    background-color: green; 
+}
+
+#submit-button {
+    background-color: blueviolet; 
+}
